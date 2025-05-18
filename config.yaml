@@ -1,0 +1,7 @@
+grpc_endpoint: "https://grpc.ny.shyft.to"
+x_token: "b2b972c6-fff2-4b5c-aac9-375c6984b80e"
+rpc_url: "https://api.devnet.solana.com"
+
+from_keypair: "./wallets/sender.json"
+to_address: "9uEtzDpCjH8z2V7xgdzUNtHeL1PHvnkFv5wQj4QUC1cC"
+amount_sol: 0.01
